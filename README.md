@@ -24,5 +24,5 @@ Clone the project on your local machine.
 ## Contributions
 Any contributions (additions or reductions) towards the project are welcome!
 
-##Show your support
-If you think this is a good project, buy me a coffee :coffee: or give it a star :start:!
+## Show your support
+If you think this is a good project, buy me a coffee :coffee: or give it a star ⭐️!
